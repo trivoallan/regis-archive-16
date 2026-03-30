@@ -1,0 +1,22 @@
+[
+  {
+    "id": "registry-1.docker.io/library/ruby/latest/2026-03-30T01-45-38",
+    "timestamp": "2026-03-30T01:45:38.176183+00:00",
+    "registry": "registry-1.docker.io",
+    "repository": "library/ruby",
+    "tag": "latest",
+    "digest": "sha256-d0996dba0e549565279d666a436053d6489bce8df19d2b1024e7de559c6b079d",
+    "score": 33,
+    "tier": null,
+    "rules_passed": 6,
+    "rules_total": 18,
+    "cve_critical": 0,
+    "cve_high": 159,
+    "cve_medium": 449,
+    "cve_low": 930,
+    "age_days": null,
+    "sbom_component_count": null,
+    "scorecard_score": 3.7,
+    "path": "registry-1.docker.io/library_ruby/latest/2026-03-30T01-45-38Z/report.json"
+  }
+]
